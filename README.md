@@ -1,7 +1,5 @@
 # IMDB Movies Reviews Sentiment Analyzer
 
-# Sentiment Analysis Case Study on IMDB Movie Reviews
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
