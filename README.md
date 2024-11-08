@@ -88,27 +88,6 @@ The sentiment analyzer developed in this project successfully addresses key chal
 - Integrating with real-time APIs (e.g., Twitter or news reviews).
 - Deploying the model as a web service using AWS or other cloud platforms.
 
-## Usage
-After installation, you can use the following commands to run the scripts:
-
-1. **Preprocess the data:**
-   ```bash
-   python preprocess_data.py
-   ```
-
-2. **Train the sentiment analysis model:**
-   ```bash
-   python train_model.py
-   ```
-
-3. **Evaluate the model:**
-   ```bash
-   python evaluate_model.py
-   ```
-
-4. **Deploy on AWS (Optional):**
-   Refer to the `deployment.md` for further instructions.
-
 ## References
 - **IMDB Movie Reviews Dataset:** [Kaggle IMDB Dataset](https://www.kaggle.com/)
 - **NLP Techniques:** Natural Language Processing with Python by Steven Bird
